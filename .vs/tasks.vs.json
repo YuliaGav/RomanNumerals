@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ConsoleApp",
+      "appliesTo": "ConsoleApp/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-obj",
+      "appliesTo": "ConsoleApp/obj/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "ConsoleApp/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "ConsoleApp/Program.cs",
+      "type": "launch"
+    }
+  ]
+}

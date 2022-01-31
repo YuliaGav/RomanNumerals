@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApp.Controllers.RomanController.Get(System.Int32)">
+            <summary>
+            Converts a number to roman numerals
+            </summary>
+            <param name="arabic">Arabic number between 1 to 2000 to convert</param>
+            <returns>string representing roman numeral, status, error</returns>
+            
+        </member>
+    </members>
+</doc>

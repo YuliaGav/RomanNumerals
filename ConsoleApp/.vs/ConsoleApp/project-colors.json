@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41957bed-5f50-482c-a03f-e547b0f22148": {
+      "ProjectGuid": "41957bed-5f50-482c-a03f-e547b0f22148",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 0
+    },
+    "2ba767ed-a30d-4b29-8c3b-6e499f317fe7": {
+      "ProjectGuid": "2ba767ed-a30d-4b29-8c3b-6e499f317fe7",
+      "DisplayName": "RomanNumerals.Web",
+      "ColorIndex": 1
+    },
+    "5a751f00-5d03-47fa-9e44-1b6680782d6d": {
+      "ProjectGuid": "5a751f00-5d03-47fa-9e44-1b6680782d6d",
+      "DisplayName": "RomanNumerals",
+      "ColorIndex": 2
+    },
+    "81827ca6-bd41-4b27-bda2-da21b964d078": {
+      "ProjectGuid": "81827ca6-bd41-4b27-bda2-da21b964d078",
+      "DisplayName": "RomanNumerals.APIModels",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6dca8259-cf09-427d-aa0b-f6b1fd13ed55": {
+      "ProjectGuid": "6dca8259-cf09-427d-aa0b-f6b1fd13ed55",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 4
+    },
+    "8d436cce-cab8-44bc-881b-8a822bb52e58": {
+      "ProjectGuid": "8d436cce-cab8-44bc-881b-8a822bb52e58",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 5
+    },
+    "017c6bc1-d41e-4654-9d2d-593b31782420": {
+      "ProjectGuid": "017c6bc1-d41e-4654-9d2d-593b31782420",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

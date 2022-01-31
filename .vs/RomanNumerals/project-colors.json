@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "436c4df1-23ef-4667-a9fa-aa19cb0490cd": {
+      "ProjectGuid": "436c4df1-23ef-4667-a9fa-aa19cb0490cd",
+      "DisplayName": "RomanNumeralsLib",
+      "ColorIndex": 0
+    },
+    "531d0326-8a0a-4257-9cfc-e54d4d4a273c": {
+      "ProjectGuid": "531d0326-8a0a-4257-9cfc-e54d4d4a273c",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

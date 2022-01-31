@@ -1,0 +1,11 @@
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\bin\Debug\net6.0\RomanNumerals.deps.json
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\bin\Debug\net6.0\RomanNumerals.dll
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\bin\Debug\net6.0\ref\RomanNumerals.dll
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\bin\Debug\net6.0\RomanNumerals.pdb
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.dll
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\ref\RomanNumerals.dll
+C:\Users\yulia\Source\Repos\YuliaGav\RomanNumerals\RomanNumerals\obj\Debug\net6.0\RomanNumerals.pdb
